@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+CPlusSandbox.vcxproj
+CPlusSandbox.vcxproj.filters
